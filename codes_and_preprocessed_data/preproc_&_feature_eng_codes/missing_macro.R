@@ -1,0 +1,10 @@
+library(mice)
+data=read.csv("macro_for_mice.csv")
+data=as.matrix(data)
+dataz=scale(data)
+center=attributes(dataz)$`scaled:center`
+sdv=attributes(dataz)$`scaled:scale`
+model=mice(dataz,maxit=10,visitSequence='mono',method="mean")
+filled=as.matrix(complete(model,1))
+filled=t(t(filled)*sdv+center)
+write.csv(filled,"macro_filled.csv")

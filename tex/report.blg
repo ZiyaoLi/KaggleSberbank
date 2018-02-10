@@ -1,0 +1,33 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: report.aux
+The style file: icml2018.bst
+Database file #1: bib.bib
+I was expecting a `,' or a `}'---line 18 of file bib.bib
+ :     
+ :     url = {https://github.com/dmlc/xgboost},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 38 of file bib.bib
+ :   
+ :   url = {https://www.kaggle.com/captcalculator/a-very-extensive-sberbank-exploratory-analysis}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 46 of file bib.bib
+ :   
+ :   url = {https://www.kaggle.com/bguberfain/naive-xgb-lb-0-317}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 53 of file bib.bib
+ :   
+ :   url = {https://www.kaggle.com/schoolpal/lgbm-lb-0-3093-0-3094}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "T. Chen, T. He, M. Benesty, V. Khotilovich and Y. Tang" for entry xgboost
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "T. Chen, T. He, M. Benesty, V. Khotilovich and Y. Tang" for entry xgboost
+while executing---line 1352 of file icml2018.bst
+Too many commas in name 1 of "T. Chen, T. He, M. Benesty, V. Khotilovich and Y. Tang" for entry xgboost
+while executing---line 1434 of file icml2018.bst
+Too many commas in name 1 of "T. Chen, T. He, M. Benesty, V. Khotilovich and Y. Tang" for entry xgboost
+while executing---line 1434 of file icml2018.bst
+Warning--empty publisher in xgboost
+(There were 8 error messages)

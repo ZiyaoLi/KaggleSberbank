@@ -1,0 +1,43 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Amaral(2017)]{kerB}
+Amaral, B.
+\newblock Kernel: Naive xgb [lb ~0.317], 2017.
+
+\bibitem[anonymous(2017)]{kerC}
+anonymous.
+\newblock Kernel: Lgbm lb 0.3093 - 0.3094, 2017.
+
+\bibitem[Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion,
+  Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay]{sklearn}
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel,
+  O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J.,
+  Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and Duchesnay, E.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock \emph{Journal of Machine Learning Research}, 12:\penalty0 2825--2830,
+  2011.
+
+\bibitem[T.~Chen \& Tang(2017)T.~Chen and Tang]{xgboost}
+T.~Chen, T.~He, M. Benesty V.~Khotilovich and Tang, Y.
+\newblock \emph{XGBoost: eXtreme Gradient Boosting}.
+\newblock 2017.
+
+\bibitem[{van Buuren} \& Groothuis-Oudshoorn(2011){van Buuren} and
+  Groothuis-Oudshoorn]{MICE}
+{van Buuren}, Stef and Groothuis-Oudshoorn, Karin.
+\newblock {MICE}: Multivariate imputation by chained equations in r.
+\newblock \emph{Journal of Statistical Software}, 45\penalty0 (3):\penalty0
+  1--67, 2011.
+\newblock URL \url{http://www.jstatsoft.org/v45/i03/}.
+
+\bibitem[Walters(2017)]{kerA}
+Walters, T.
+\newblock Kernel: A very extensive sberbank exploratory analysis, 2017.
+
+\end{thebibliography}
